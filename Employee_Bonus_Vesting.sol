@@ -11,7 +11,7 @@ Only the specific employee can withdraw their own money.
 pragma solidity ^0.8.7;
 
 contract CryptoBonusVesting {
-    //owner Dad
+    //owner Boss
 
     address owner;
 
